@@ -4,4 +4,7 @@
 
 Ich arbeite als Reiseführer für deutschsprachige Touristen mit verschiedenen Reisebüros
 
-[![Dunkelbier für Bremen](https://img.shields.io/badge/Colaborando%20en-Schnoor%20Bier-orange.svg)](http://www.schnoorbraeu.de/)
+
+[![Ihr Reisebüro](https://img.shields.io/badge/Colaborando%20en-Valencia%20Color%20Tours-orange.svg)](http://www.valenciacolortours.com/)
+
+[![Dunkelbier für Bremen](https://img.shields.io/badge/Recomiendo%20en-Schnoor%20Bier-orange.svg)](http://www.schnoorbraeu.de/)
